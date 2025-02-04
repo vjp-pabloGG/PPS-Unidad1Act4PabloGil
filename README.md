@@ -11,7 +11,7 @@ A continuación, se describen diversas opciones para ejecutar aplicaciones en un
   - Cada instancia es completamente nueva y se elimina al cerrarla.
 - **Uso Ideal:** Probar software sospechoso o desconocido sin comprometer el sistema principal.
 
-
+![WindowsSandbox](./imagenes/bRupB5dRC4AUjfLgs8Rb9T.jpg)
 
 ### 2. **Sandboxie**
 - **Descripción:** Herramienta gratuita y de código abierto que crea un entorno aislado para ejecutar aplicaciones.
