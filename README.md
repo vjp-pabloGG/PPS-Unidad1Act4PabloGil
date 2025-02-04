@@ -11,6 +11,8 @@ A continuación, se describen diversas opciones para ejecutar aplicaciones en un
   - Cada instancia es completamente nueva y se elimina al cerrarla.
 - **Uso Ideal:** Probar software sospechoso o desconocido sin comprometer el sistema principal.
 
+
+
 ### 2. **Sandboxie Plus**
 - **Descripción:** Herramienta gratuita y de código abierto que crea un entorno aislado para ejecutar aplicaciones.
 - **Ventajas:**
@@ -28,4 +30,6 @@ A continuación, se describen diversas opciones para ejecutar aplicaciones en un
   - Mayor consumo de recursos en comparación con otras opciones.
   - Requiere configuración adicional.
 - **Uso Ideal:** Entornos complejos o pruebas que requieren control total sobre el sistema operativo.
+
+![LogoWin](./imagenes/virtualbox-2h30.jpg)
 
