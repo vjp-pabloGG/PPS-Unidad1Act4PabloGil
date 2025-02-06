@@ -59,7 +59,7 @@ Sandboxie es una herramienta que permite ejecutar programas en un entorno aislad
 
 ![Sandboxie](./imagenes/2.JPG)
 
-## **Ejecución asilada**
+## **Ejecución Aislada de la Calculadora**
 - Arrastramos el archivo calculadora.py al sandboxie
 ![Sandboxie](./imagenes/4.JPG)
 - Se nos abrirá el terminal python donde aparece el programa seleccionado
