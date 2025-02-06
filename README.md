@@ -18,7 +18,6 @@ A continuación, se describen diversas opciones para ejecutar aplicaciones en un
 - **Ventajas:**
   - Permite ejecutar aplicaciones sin afectar el sistema operativo principal.
   - Ofrece funciones avanzadas como gestor de instantáneas y modo de mantenimiento.
-  - Compatible con Windows 7 y versiones posteriores.
 - **Uso Ideal:** Probar programas de manera recurrente y segura con mayor flexibilidad.
 
 ![Sandboxie](./imagenes/sandboxie.png)
