@@ -67,3 +67,5 @@ Sandboxie es una herramienta que permite ejecutar programas en un entorno aislad
 - Desde el programa de Sandboxie en la opción ver podemos:
   - Ver los archivos y carpetas utilizadas para ejecutar la calculadora
 ![Sandboxie](./imagenes/6.JPG) 
+  - Los programas o recursos en ejecución
+![Sandboxie](./imagenes/8.JPG) 
