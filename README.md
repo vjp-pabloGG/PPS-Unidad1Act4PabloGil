@@ -41,11 +41,8 @@ A continuación, se describen diversas opciones para ejecutar aplicaciones en un
 ---
 ## **Índice**
 1. [Introducción](#introducción)
-2. [Requisitos Previos](#requisitos-previos)
-3. [Instalación de Sandboxie](#instalación-de-sandboxie)
-4. [Configuración de Sandboxie para Ejecutar Archivos `.py`](#configuración-de-sandboxie-para-ejecutar-archivos-py)
-5. [Ejecución Aislada de la Calculadora](#ejecución-aislada-de-la-calculadora)
-6. [Consideraciones de Seguridad](#consideraciones-de-seguridad)
+2. [Instalación de Sandboxie](#instalación-de-sandboxie)
+3. [Ejecución Aislada de la Calculadora](#ejecución-aislada-de-la-calculadora)
 ---
 ## **Introducción**
 Sandboxie es una herramienta que permite ejecutar programas en un entorno aislado, proporcionando una capa adicional de seguridad al evitar que el software afecte el sistema principal. En este tutorial, aprenderás a configurar y usar Sandboxie para ejecutar un archivo Python que contiene una calculadora de manera aislada.
@@ -62,7 +59,7 @@ Sandboxie es una herramienta que permite ejecutar programas en un entorno aislad
 
 ![Sandboxie](./imagenes/2.JPG)
 
-3. **Prueba 'calculadora.py' Sandboxie:**
+## **Ejecución asilada**
 - Arrastramos el archivo calculadora.py al sandboxie
 ![Sandboxie](./imagenes/4.JPG)
 - Se nos abrirá el terminal python donde aparece el programa seleccionado
