@@ -35,3 +35,30 @@ A continuación, se describen diversas opciones para ejecutar aplicaciones en un
 
 ![LogoWin](./imagenes/virtualbox-2h30.jpg)
 
+## Creación del entorno y pruebas
+
+### **Sandboxie**
+---
+## **Índice**
+1. [Introducción](#introducción)
+2. [Requisitos Previos](#requisitos-previos)
+3. [Instalación de Sandboxie](#instalación-de-sandboxie)
+4. [Configuración de Sandboxie para Ejecutar Archivos `.py`](#configuración-de-sandboxie-para-ejecutar-archivos-py)
+5. [Ejecución Aislada de la Calculadora](#ejecución-aislada-de-la-calculadora)
+6. [Consideraciones de Seguridad](#consideraciones-de-seguridad)
+---
+## **Introducción**
+Sandboxie es una herramienta que permite ejecutar programas en un entorno aislado, proporcionando una capa adicional de seguridad al evitar que el software afecte el sistema principal. En este tutorial, aprenderás a configurar y usar Sandboxie para ejecutar un archivo Python que contiene una calculadora de manera aislada.
+---
+## **Instalación de Sandboxie**
+1. **Descarga Sandboxie:**
+   - Accedemos a la [página oficial de Sandboxie](https://sandboxie-plus.com/) y descargamos la versión adecuada para nuestro sistema.
+
+![Sandboxie](./imagenes/1.jpg)
+   
+2. **Instala Sandboxie:**
+   - Ejecuta el instalador y sigue las instrucciones en pantalla.
+   - Una vez instalado, inicia Sandboxie para confirmar que funciona correctamente.
+
+---
+
