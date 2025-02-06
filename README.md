@@ -54,7 +54,7 @@ Sandboxie es una herramienta que permite ejecutar programas en un entorno aislad
 1. **Descarga Sandboxie:**
    - Accedemos a la [página oficial de Sandboxie](https://sandboxie-plus.com/) y descargamos la versión adecuada para nuestro sistema.
 
-![Sandboxie](./imagenes/1.jpg)
+![Sandboxie](./imagenes/1.JPG)
    
 2. **Instala Sandboxie:**
    - Ejecuta el instalador y sigue las instrucciones en pantalla.
